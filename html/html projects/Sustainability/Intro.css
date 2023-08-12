@@ -1,0 +1,27 @@
+body {
+    background-color: #17141d;
+}
+
+h3 {
+    color: white;
+    font-family: "Open sans";
+    font-size: 10vh;
+}
+
+.intro {
+    font-family: 'Courier New', Courier, monospace;
+    height: 16px;
+    width: 100%;
+    color: white;
+}
+
+.EE {
+    color: white;
+    font-family: cursive;
+    height: 16px;
+    text-align: center;
+}
+
+h6 {
+    height: 30px;
+}

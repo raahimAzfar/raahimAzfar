@@ -1,0 +1,17 @@
+{
+    "manifest_version": 3,
+    "name": "Hello Extensions",
+    "description": "My first extension",
+    "version": "3.0",
+    "action":
+        {
+            "default_popup": "hello.html",
+            "default_icon": "hello_extensions.png"
+        },
+
+    "content_scripts": [
+            {
+                "js": ["content.js"]
+            }
+        ]
+}

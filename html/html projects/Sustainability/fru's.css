@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Tajawal&display=swap');
+
+body {
+    background-color: #17141d;
+}
+
+h1 {
+    font-size: 36px;
+    color: white;
+    font-family: "Homemade Apple";
+}
+
+p {
+    font-size: 16px;
+    font-family: "Tajawal";
+    color: white;
+}
+
+.material-icons.orange600 { color: #FB8C00; }
