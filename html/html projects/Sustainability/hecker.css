@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400&family=Poppins:ital,wght@1,100&family=Space+Mono:wght@700&display=swap');
+
+body {
+    background-color: #17141d;
+}
+
+p {
+  font-size: 16px;
+  font-family: "Poppins";
+  color: white;
+  text-align: center;
+}
+
+.SP {
+    font-weight: 900;
+    font-family: 'Space Mono', monospace;
+    font-size: clamp(3rem, 2vw, 10rem);
+    color: white;
+    white-space: nowrap;
+    padding: 0rem clamp(1rem, 2vw, 3rem);
+    border-radius: clamp(0.4rem, 0.75vw, 1rem);
+    margin: 0rem;
+    text-align: center;
+  }
+  .hacker {
+    font-weight: 900;
+    font-family: 'Space Mono', monospace;
+    font-size: clamp(3rem, 2vw, 10rem);
+    color: white;
+    white-space: nowrap;
+    padding: 0rem clamp(1rem, 2vw, 3rem);
+    border-radius: clamp(0.4rem, 0.75vw, 1rem);
+    margin: 0rem;
+    text-align: center;
+  }
+  
+  .hacker:hover {
+    color: black;
+    background-color: white;
+  }
+  
+  .olde {
+    font-family: Rockwell;
+    color: white;
+    margin: 0rem;
+    text-align: center;
+    font-size: clamp(3rem, 2vw, 3rem);
+  }
+
+  i {
+    font-family: "Dancing Script";
+    font-size: 18px;
+  }

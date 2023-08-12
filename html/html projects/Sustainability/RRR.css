@@ -1,0 +1,27 @@
+body {
+    background-color: #17141d;
+}
+
+p {
+    font-family: "Verdana";
+    color: white;
+    height: 5vh;
+}
+
+h2 {
+    color: white;
+    font-family: "Nanum Brush Script";
+    font-size: 7vh;
+  }
+
+  .intro {
+    font-family: monospace;
+    height: 18px;
+    text-align: center;
+    width: 100%;
+    top: 10px;
+  }
+
+h6 {
+    font-size: 30px;
+}

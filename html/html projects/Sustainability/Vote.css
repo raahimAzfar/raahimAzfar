@@ -1,0 +1,26 @@
+h1 {
+    color: white;
+    text-align: center;
+}
+
+body {
+    background-color: #17141d;
+}
+
+button {
+    background-color: #17141d;
+    border: 1px;
+    border-radius: 0%;
+}
+
+p {
+    color: #fff;
+    font-family: Arial;
+    font-size: 16px;
+}
+
+a {
+    color: #fff;
+    font-family: Arial;
+    font-size: 16px;
+}
